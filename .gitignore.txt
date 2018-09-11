@@ -1,0 +1,30 @@
+*.класс
+
+# Мобильные инструменты для Java (J2ME
+.mtj.ПТМ
+
+# файл пакета
+*.сосуд
+*.Война
+*.ухо
+
+# журналы сбоев виртуальных машин, см. http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid
+.Настройки
+.проект
+.путь класса
+.springBeans
+**/цель
+/совершать.формат txt
+/*/круглый лес
+/ * / wrk
+effective-pom.XML
+effective-настройки.XML
+/*/.gwt
+.Кэш
+.идея
+*.iml
+*.бревно
+*.lck
+*.сосуд
+* / dependency-reduced-pom.XML
